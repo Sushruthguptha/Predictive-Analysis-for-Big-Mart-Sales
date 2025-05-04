@@ -1,4 +1,4 @@
-![Repository Banner](images/repo-banner.png)[![Repository Image](https://your-image-url.com/repo-image.png)](https://github.com/YOUR_USERNAME/Big-Mart-Sales-Prediction)
+![image](https://github.com/user-attachments/assets/523adf97-3298-414d-b8e4-390ec25d1e3d)
 🛒 Predictive Analysis of Big Mart Sales Using Machine Learning
 
 📌 Project Overview
