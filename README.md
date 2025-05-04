@@ -1,4 +1,5 @@
-![Repository Banner](images/repo-banner.png)[![Repository Image](https://your-image-url.com/repo-image.png)](https://github.com/YOUR_USERNAME/Big-Mart-Sales-Prediction)🛒 Predictive Analysis of Big Mart Sales Using Machine Learning
+![Repository Banner](images/repo-banner.png)[![Repository Image](https://your-image-url.com/repo-image.png)](https://github.com/YOUR_USERNAME/Big-Mart-Sales-Prediction)
+🛒 Predictive Analysis of Big Mart Sales Using Machine Learning
 
 📌 Project Overview
 Welcome to Predictive Analysis of Big Mart Sales, a machine learning project designed to forecast sales based on various features such as store type, location, product categories, and more. This project provides insights into sales trends and helps optimize inventory and pricing strategies.
